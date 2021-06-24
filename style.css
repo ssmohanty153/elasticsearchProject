@@ -1,0 +1,8 @@
+@media (min-width: 576px){
+.container {
+    max-width: 50% !important;
+    /* background-image:url("Alethea.png"); */
+    background-color: orange;
+
+}
+}
